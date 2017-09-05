@@ -8,14 +8,14 @@
    --sidebar-background: #1a2129;
 
    --border-dim: #666;
-   --border-bright: var(--primary);
+   --border-bright: #aaa;
 
    --text: #CCC;
    --text-alt: var(--accent);
    --text-special: #aaa;
 
    --scrollbar-background: #000;
-   --scrollbar-border: var(--primary);
+   --scrollbar-border: #aaa;
 }
 
 #msgs_scroller_div::-webkit-scrollbar-track, #client_body::before, .client_container,
