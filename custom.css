@@ -11,7 +11,7 @@
    --border-bright: #aaa;
 
    --text: #CCC;
-   --text-alt: var(--accent);
+   --text-alt: var(--primary);
    --text-special: #aaa;
 
    --scrollbar-background: #000;
