@@ -12,7 +12,7 @@
 
    --text: #CCC;
    --text-alt: var(--accent);
-   --text-special: var(--primary);
+   --text-special: #aaa;
 
    --scrollbar-background: #000;
    --scrollbar-border: var(--primary);
